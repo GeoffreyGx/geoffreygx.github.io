@@ -1,0 +1,13 @@
+name = "Elemental enchantments"
+filename = "elementalenchantments-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RY1ITisM/versions/98HqYozS/elementalenchantments-1.1.0.jar"
+hash-format = "sha1"
+hash = "a8b980b91748c57cb17a3dbc7fd8b93da7ea70de"
+
+[update]
+[update.modrinth]
+mod-id = "RY1ITisM"
+version = "98HqYozS"
