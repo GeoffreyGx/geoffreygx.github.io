@@ -121,6 +121,16 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "3baa1c986d4cfc5f4ea2aebcce3d5cba5d1804256b712ffd427b892c8f5f7f1f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "c80affe38a912e33dde3e955f7462feedf157be38b0e968baa8d4f7f9dc26485"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "477ca2e0ad573c9ddecc5d0eda3b74f0ab355189d2c34f3ea041e27e5f0b9a00"
 metafile = true
@@ -188,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "69af36e0a1e29e69ccecf4379845a5b25f2a00b9b0c2209d24437a3bac7cf9d0"
 metafile = true
 
 [[files]]
