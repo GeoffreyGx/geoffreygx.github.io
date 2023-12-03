@@ -21,6 +21,11 @@ hash = "90745999262576c91d5f22493d03193ba807ee00558a8d19b50873d97d732ab6"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "f9481e8665c366e04a32b6acbabd5feeb950aadafb256831dbb0f26b5affa257"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
@@ -46,8 +51,18 @@ hash = "44fb9a1e27142f13144060fbf8eaf84a4ff88089497d37077a708de3dbe23411"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "1561d38ea968ea2f8c19d71c614fb51bb23c739e53c4ab3bbeb1be068d5c54fb"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "61ad112f947709507c21d9755cbde300bea4fab210f4d54e37085ce6ae6a7231"
 metafile = true
 
 [[files]]
@@ -283,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "8a31ef5650de94b19eb7cb2c3edc8e11ee64027e6341d77eab3aefa3347537d2"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
