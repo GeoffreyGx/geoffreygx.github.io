@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "53696223666f4b55081892a7903a7b1e7770d6b401590eba39f9d449d5abe8bf"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true

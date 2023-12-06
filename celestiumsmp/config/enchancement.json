@@ -2,7 +2,7 @@
   "disallowedEnchantments": [
     "minecraft:bane_of_arthropods",
     "minecraft:smite",
-    "minecraft:aqua_affinity"
+    "minecraft:aqua_affinity",
     "minecraft:depth_strider",
     "minecraft:fire_protection",
     "minecraft:frost_walker",
