@@ -19,11 +19,6 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "82b70b3ca30f3eedea12049a414cf30baae722c79128b17789a93b6906dc3ca5"
-metafile = true
-
-[[files]]
 file = "mods/biome-makeover.pw.toml"
 hash = "fda13d2e9e623488310452142e95d113f33d216921e371e185f79ea64929179b"
 metafile = true
@@ -55,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "9d2863b6ac88f00c566380ff79c0cef1f7b1ab6154332af8c83342f4a3eaef7d"
+hash = "5c8ea25c304ea7d269abf6d95d3933c889c111ec33c865bc5031f2ea69aed617"
 metafile = true
 
 [[files]]
@@ -65,12 +60,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "61ad112f947709507c21d9755cbde300bea4fab210f4d54e37085ce6ae6a7231"
+hash = "62d2a0578959ce2ed450891edc4877bd15716bd2aa9ac7d01d5001c9343d0df1"
 metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "a92870d60a4072be02b302f5b50dc419016b0b74c6e0592acd0e21ddb73acf85"
+hash = "97c38ea584f45ed8b6cda1cbbd83d2e520835c59b30869ebadc8178083152393"
 metafile = true
 
 [[files]]
@@ -170,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
+hash = "d1b43fd5c728b2b80ec709d3f12b0d730914039077204d442b9b7fda64061211"
 metafile = true
 
 [[files]]
@@ -240,12 +235,12 @@ metafile = true
 
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
-hash = "b9945458760c6d56db590b3c3160af1c48e4fafcc6d932623c5b5fbd11bd3d57"
+hash = "e8755c3a5f1911ca1c0b2a6c084c93b1bac1db2b9175d89adcba20158a031ec5"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "ae9f8aab8ab115688b981f290bc59db0de3b982e0a828b2ece38c41130b46a08"
+hash = "23d596d1d2e39ae3b05415790663819401fc62d745d6a817e88d9c36d07bce53"
 metafile = true
 
 [[files]]
@@ -260,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/signed-paintings.pw.toml"
-hash = "b653ccd141d8a15b0d4da90fd861366bbc8bb5a9bcbd63131140d8e2a763ab90"
+hash = "5d2fb701ec283977e9d6edd58f01940e90f79f72461ec1b2b798028e29ed34b8"
 metafile = true
 
 [[files]]
@@ -295,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "aaae48129edb1d2db19450fbc18097748befb273e20c443f53668cc4188a72e7"
+hash = "7c37c293d44a0c5bfbd891f2c8025138987684a799ca890a1cb3ceff460b08ce"
 metafile = true
 
 [[files]]
@@ -310,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "6a39c7d9d4235cd6ea040585a35a196e9c11e30e2a255e53aaea4ed510e94805"
+hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
 metafile = true
 
 [[files]]
