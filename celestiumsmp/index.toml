@@ -14,6 +14,11 @@ hash = "5554f0809c5a0b91f34be744e593dcb00c3f46b4921c3d1d685364cbda980cb0"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "ce1fe1e69721bf56e277be993505956c88c3036e8d826a85eb83d9a3cf8305aa"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
@@ -39,8 +44,13 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -85,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "a3d67ed45a2b4cde25d7e3718ce1fa71297df6f23950b0a12442499b089c59a1"
+hash = "2ff82ebe78889abd87b1ae060c4208aeaf3734aeb9431688f26e5be4517f2d2b"
 metafile = true
 
 [[files]]
@@ -105,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
@@ -165,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d1b43fd5c728b2b80ec709d3f12b0d730914039077204d442b9b7fda64061211"
+hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
 
 [[files]]
@@ -200,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "db0666dfafeb0790232e8306a468b5725f372114d4bcd9f2743994e62458a3e7"
+hash = "87d55e42e8095facbf1c4b28432ea0a4d6d08a0aa3add54a3b07c2fc74bcc129"
 metafile = true
 
 [[files]]
@@ -211,11 +221,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
-metafile = true
-
-[[files]]
-file = "mods/open-simple-frames.pw.toml"
-hash = "e1fb5f3208a62d3a5abd0d79cc432b27a11f98582dfca43fbe153228a41e3ea3"
 metafile = true
 
 [[files]]
@@ -235,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
-hash = "e8755c3a5f1911ca1c0b2a6c084c93b1bac1db2b9175d89adcba20158a031ec5"
+hash = "c9bbc5c410201dc983f263b63ea189e703e9bed2bbf1eb4b2141697f985cfdb2"
 metafile = true
 
 [[files]]
@@ -250,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "d8d167c69fa2b57d6ef71f1649da05ac7cbfbc9213b43aeb6e81ed9ffa49a114"
+hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
 metafile = true
 
 [[files]]
@@ -290,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7c37c293d44a0c5bfbd891f2c8025138987684a799ca890a1cb3ceff460b08ce"
+hash = "f8555ccd1d7a77c815e1b6bc198abc48a9e69527f8715c83ae1f017437dd73af"
 metafile = true
 
 [[files]]
