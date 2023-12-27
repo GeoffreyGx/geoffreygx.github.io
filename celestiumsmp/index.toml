@@ -239,6 +239,11 @@ hash = "fad1ecdab969cd8c3f9acd9b4be802c4ad636720657239650da1d72d78df8ded"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "c9bbc5c410201dc983f263b63ea189e703e9bed2bbf1eb4b2141697f985cfdb2"
 metafile = true
@@ -261,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
 
 [[files]]
