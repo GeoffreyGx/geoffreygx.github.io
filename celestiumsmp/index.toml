@@ -259,11 +259,6 @@ hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
 metafile = true
 
 [[files]]
-file = "mods/signed-paintings.pw.toml"
-hash = "5d2fb701ec283977e9d6edd58f01940e90f79f72461ec1b2b798028e29ed34b8"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
