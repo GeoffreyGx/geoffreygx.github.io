@@ -9,6 +9,11 @@ file = "config/supplementaries-common.json"
 hash = "18565e20470aa6b8dbabbc7b99dbb6a74124f7b1f4b2eca675dc5062bc24a0d0"
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "6f900b14ea73e4a90900457d65a5a32bb05301766e5481402b574975706b9353"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
