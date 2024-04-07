@@ -1,0 +1,13 @@
+name = "Projet Equation"
+author = "Outra256, Gocraft, Ehrmantraut_, GeoffreyGx"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "955112978d312b72e1cbba870fd0fa61e3a0833a0aa1f16b80cdf5473c4073b5"
+
+[versions]
+forge = "47.2.23"
+minecraft = "1.20.1"
