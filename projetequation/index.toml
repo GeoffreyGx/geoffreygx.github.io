@@ -46,6 +46,11 @@ hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
 
 [[files]]
+file = "mods/cluttered.pw.toml"
+hash = "c7ba95d8b8f60a36db85c863366251d34b3de57ff01ad7247766bf0d109b0e8f"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "82cd10f066c07d118ea50c9b7a16496448ce519e687dd25b4cddd4a0f105057e"
 metafile = true
@@ -68,6 +73,16 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm(cataclysm).pw.toml"
 hash = "20490ab5073101ff3e9cac575442d71da26dc519358c896ae34f8819a305cfce"
+metafile = true
+
+[[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "cc24ee332a95fcae64ccb5dd9905fc25b2f8a2ccab500add27f0ff05fc130abf"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "fd382cec52297ec03c27c9127dcc2d0b2c288262ce5680a1e7b6d9d8bfc04ece"
 metafile = true
 
 [[files]]

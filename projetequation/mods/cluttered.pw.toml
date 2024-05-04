@@ -1,0 +1,13 @@
+name = "Cluttered"
+filename = "cluttered-2.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UnAEo77V/versions/kWx3d6G0/cluttered-2.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "2be671ba8cf1e34f859810c92b5d0a1fe43016f0"
+
+[update]
+[update.modrinth]
+mod-id = "UnAEo77V"
+version = "kWx3d6G0"
