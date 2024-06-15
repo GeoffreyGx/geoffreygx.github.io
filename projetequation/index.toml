@@ -76,6 +76,11 @@ hash = "ff9a63fe683e0945e4192dc17e114b3b6768261fe5c88cf4fa08b05ca9dc1056"
 metafile = true
 
 [[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "b67788df2948db7f4aa69bb01ad539d4d54e5f1f823ed6d6bfaf2949cf972518"
+metafile = true
+
+[[files]]
 file = "mods/ob-aquamirae.pw.toml"
 hash = "c231da7b273fb5b79506bd25ff96b4aee4c778070fb0c6133fb32c6090baa9cd"
 metafile = true
